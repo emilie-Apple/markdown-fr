@@ -21,7 +21,10 @@ Select the valid images:
 - [ ] `[Google logo](https://www.google.ru/logo.png)`
 - [x] `![](https://www.google.ru/logo.png)`
 
-> Images must be prefixed with an exclamation mark.
+> Images must be prefixed with an exclamation mark
+
+Traduction en francais : Les images doivent être précédés d' un point d'exclamation
+
 The alternative text and a title are optional.
 
 What is true about the following line: ```![Funny cat](http://cats.ru/funny.png "Share this")```
